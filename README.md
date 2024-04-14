@@ -5,3 +5,6 @@ The Training notebook files themselves contain all the necessary pre-processing 
 The testing notebooks contain code to test the scores of the trained networks and contain e.g. loss curves and IoU scores. The post-processing_Watershed_Image_plot file contains the post-processing process which includes re-interpolation and application of the watershed algorithm.
 
 We also wanted to upload the trained networks, but alas these files were too big to upload.
+
+Please also read our blog post, which explains all the steps we took to reproduce the results:
+https://hackmd.io/5yhN0bTqSza-951Vd-_NLA?view
